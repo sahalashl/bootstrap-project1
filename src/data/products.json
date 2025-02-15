@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1200,
+      "category": "Electronics",
+      "image": "https://th.bing.com/th/id/OIP.OU1CoSplSgGv9VpKxYneSAHaFc?w=256&h=188&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 100,
+      "category": "Electronics",
+      "image": "https://th.bing.com/th/id/OIP.VKQ__hT5n6GNtqYvzlItVgHaHa?w=191&h=190&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 3,
+      "name": "Blueberry Cake",
+      "price": 800,
+      "category": "Pastry Items",
+      "image": "https://th.bing.com/th/id/OIP.CNtqe-UK5ktdJROm27HAawHaHa?w=202&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 4,
+      "name": "Coffee Maker",
+      "price": 80,
+      "category": "Home Appliances",
+      "image": "https://th.bing.com/th?id=OIP.93sdFsNagXBO_QLkQaWcAQHaIf&w=233&h=267&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    }, 
+    {
+      "id": 5,
+      "name": "i phone 15 pro max",
+      "price": 1500,
+      "category": "Accessories",
+      "image": "https://www.telstra.com.au/content/dam/tcom/devices/mobile/mhdwhst-15pm/whitetitanium/front.png"
+    },
+      {
+        "id": 6,
+        "name": "Burger",
+        "price": 300,
+        "category": "Food",
+        "image": "https://th.bing.com/th/id/OIP.N4eDHWM2Nl8mL_gU0oDKbAHaHa?w=192&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+     
+      {
+        "id": 7,
+        "name": "Smart Watch",
+        "price": 12000,
+        "category": "Electronic Devices",
+        "image": "https://th.bing.com/th/id/OIP.tRm7dMQVPh1pstGu8TgnBgHaHa?w=172&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+      {
+        "id": 8,
+        "name": "Leather Wallet",
+        "price": 1500,
+        "category": "Accessories",
+        "image": "https://th.bing.com/th?id=OIP.IHk-ou6FzVVNhLyUVmr_yQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+      },
+      {
+        "id": 9,
+        "name": "Chocolate Donuts",
+        "price": 60,
+        "category": "Pastry Items",
+        "image": "https://th.bing.com/th/id/OIP.JCUrmqbj7n9Bk8EBAcksEgHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+      },
+      
+      {
+        "id": 10,
+        "name": "Denim Jacket",
+        "price": 2500,
+        "category": "Clothing",
+        "image": "https://th.bing.com/th?id=OIP.9ZX2o8fck_TBFTIukaxSvAHaLW&w=201&h=309&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+      }
+      
+    ]
+
+  
